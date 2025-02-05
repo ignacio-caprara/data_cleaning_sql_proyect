@@ -1,4 +1,4 @@
-# Project Data Cleaning "Layoffs" 📉 - Using SQL
+![image_graphic](https://github.com/user-attachments/assets/b9962329-5bbe-4b59-a4d2-ca8e3dea67a7)# Project Data Cleaning "Layoffs" 📉 - Using SQL
 
 ## Motivation
 This project allowed me to dive into the world of data cleaning and manipulation using SQL. Through the 'Layoffs' dataset, I worked on identifying and correcting inconsistencies, handling missing values, and optimizing the data structure to enhance its quality. This process not only strengthened my SQL skills but also prepared the dataset for future analysis and data-driven decision-making.
@@ -15,4 +15,5 @@ I would like to express my gratitude to the creators of the 'Layoffs Dataset' da
 
 --------------------------------------------------------------------------------------------------
 
-![alt text](image_graphic.jpg)
+[Uploading image_graphic.jpg…]()
+
