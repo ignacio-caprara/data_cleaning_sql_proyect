@@ -11,7 +11,7 @@ I would like to express my gratitude to the creators of the 'Layoffs Dataset' da
 
 --------------------------------------------------------------------------------------------------
 
-* Data source: https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data 
+* Data source: https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
 --------------------------------------------------------------------------------------------------
 
