@@ -15,5 +15,5 @@ I would like to express my gratitude to the creators of the 'Layoffs Dataset' da
 
 --------------------------------------------------------------------------------------------------
 
-[Uploading image_graphic.jpg…]()
+![alt text](image_graphic.jpg)
 
